@@ -69,6 +69,8 @@ social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
+linkedin:
+  username               : &linkedin
 
 
 # Analytics
@@ -99,7 +101,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/chris-hickey-54b05a89/"
+  linkedin         : "chris-hickey-54b05a89"
   orcid            : 
   pinterest        :
   soundcloud       :
