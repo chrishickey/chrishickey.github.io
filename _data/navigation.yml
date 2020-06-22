@@ -1,14 +1,20 @@
 # main links links
 main:
+  - title: "Education"
+    url: /education/    
+  
+  - title: "Work"
+    url: /work/    
+
   - title: "Publications"
     url: /publications/
 
-  - title: "Talks"
-    url: /talks/    
 
   - title: "Teaching"
     url: /teaching/    
     
+  - title: "Talks"
+    url: /talks/  
 #  - title: "Portfolio"
 #    url: /portfolio/
         
