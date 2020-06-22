@@ -5,17 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
-
-## Publications
 **Emotional voice conversion using multitask learning with text-to-speech** <br>
 Tae-Ho Kim, **Sungjae Cho**, Shinkook Choi, Sejik Park, and Soo-Young Lee <br>
 _The 45th International Conference on Acoustics, Speech, and Signal Processing_ (ICASSP 2020), May 2020. pp.7774-7778.<br>
