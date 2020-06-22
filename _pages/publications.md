@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-**Emotional voice conversion using multitask learning with text-to-speech** <br>
+***Emotional voice conversion using multitask learning with text-to-speech*** <br>
 Tae-Ho Kim, **Sungjae Cho**, Shinkook Choi, Sejik Park, and Soo-Young Lee <br>
 _The 45th International Conference on Acoustics, Speech, and Signal Processing_ (ICASSP 2020), May 2020. pp.7774-7778.<br>
 [[arXiv](https://arxiv.org/abs/1911.06149)]
