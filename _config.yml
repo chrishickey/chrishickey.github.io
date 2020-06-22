@@ -9,7 +9,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Chris Hickey's Website"
+title                    : "Chris's Website"
 title_separator          : "-"
 name                     : &name "Chris Hickey"
 description              : &description "Software Engineer and AI Researcher"
