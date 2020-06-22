@@ -9,11 +9,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Chris Hickey"
+title                    : "Chris Hickey's Website"
 title_separator          : "-"
-name                     : &name "Chris Hickey" 
-description              : &description "Graduate student at SNU"
-url                      : "https://chrishickey.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Chris Hickey"
+description              : &description "Software Engineer and AI Researcher"
+url                      : https://chrishickey.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "chrishickey.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -69,8 +69,6 @@ social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
-linkedin:
-  username               : &linkedin
 
 
 # Analytics
@@ -84,11 +82,11 @@ analytics:
 author:
   name             : 
   avatar           : "profile.jpeg"
-  bio              :
-  location         : "Seoul, Korea"
+  bio              : "Software Engineer and AI Researcher."
+  location         : "Korea"
   employer         :
-  googlescholar    : 
-  email            : "chris.hickey@ucdconnect.ie"
+  googlescholar    : #"https://scholar.google.com.tw/citations?user=p_JjrzcAAAAJ&hl=en"
+  email            :
   uri              :
   bitbucket        :
   codepen          :
@@ -101,11 +99,11 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "chris-hickey-54b05a89"
+  linkedin         : "https://www.linkedin.com/in/chris-hickey-54b05a89/"
   orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : 
+  stackoverflow    : #"https://stackoverflow.com/users/1525710/lanpa"
   steam            :
   tumblr           :
   twitter          : 
@@ -307,5 +305,3 @@ compress_html:
   clippings: all
   ignore:
     envs: development
-    
-theme: jekyll-theme-merlot    
