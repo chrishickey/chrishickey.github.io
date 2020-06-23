@@ -9,7 +9,7 @@ author_profile: true
 
 
 **Blochain Developer** <br>
-**_Common Computer, Jan 2019 - Mar 2019**  <br>
+**_Common Computer, Jan 2019 - Mar 2019_**  <br>
 _Startup Blockchain Company, Seoul_ <br>
 * Using blockchain Proof-of-Stake protocols to create a distributed sharded database capable of processing up to 1,000,000 transactions per second 
 * Creating a database that is highly partitioned, always available and eventually consistent (CAP Theorem)
