@@ -7,10 +7,9 @@ author_profile: true
 
 
 **M. Sc. Engineering (Cognitive Science and Artificial Intelligence)** <br>
-**_Seoul National University, Sep 2018 -2020_**  <br>
+**_Seoul National University, Sep 2018 -2020_** [[Transcripts](http://chrishickey.github.io/files/snu_msc.pdf)] <br>
 * **GPA**: _4.22/4.3_
 * **Thesis**: Investigating Hierarchical Color Learning in Convolutional Neural Networks, _supvervisor Prof. Byoung-Tak Zhang_
-* [[Transcripts](http://chrishickey.github.io/files/snu_msc.pdf)]
 
 **Classifying verbal commands using Convolutional Neural Networks andMel-spectrographic sound representations** <br>
 **Chris Hickey**, and Byoung-Tak Zhang <br>
