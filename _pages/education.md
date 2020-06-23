@@ -5,21 +5,12 @@ permalink: /education/
 author_profile: true
 ---
 
-<style type="text/css" rel="stylesheet">
-h1, h2, h3, h4, h5, h6 {
-    margin-bottom: 0px;
-}
-</style>
 
-### Testing
-Hello
-
-**Hierarchical Color Learning in Convolutional Neural Networks** <br>
-**Chris Hickey**, and Byoung-Tak Zhang <br>
+**Common Computer** <br>
+_Blochain Development Intern Dec 2018 - Mar 2019_ <br>
 _Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops 2020_ (CVPRW 2020), Jun. 2020. pp.3484-3485. <br>
-[[PDF](http://openaccess.thecvf.com/content_CVPRW_2020/papers/w26/Hickey_Hierarchical_Color_Learning_in_Convolutional_Neural_Networks_CVPRW_2020_paper.pdf)]
-[[GitHub](https://github.com/chrishickey/color_hierarchy_experiment)]
-[[YouTube](https://www.youtube.com/watch?v=aS6fWK9QWBI&t=13s)]
+* Hello 
+* Two
 
 **Classifying verbal commands using Convolutional Neural Networks andMel-spectrographic sound representations** <br>
 **Chris Hickey**, and Byoung-Tak Zhang <br>
