@@ -7,10 +7,11 @@ author_profile: true
 
 
 **Common Computer** <br>
+**_Blockchain Startup Company, Seoul_**  <br>
 _Blochain Development Intern Dec 2018 - Mar 2019_ <br>
-_Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops 2020_ (CVPRW 2020), Jun. 2020. pp.3484-3485. <br>
-* Hello 
-* Two
+* Using blockchain Proof-of-Stake protocols to create a distributed sharded database capable of processing up to 1,000,000 transactions per second 
+* Creating a database that is highly partitioned, always available and eventually consistent (CAP Theorem)
+* Database is developed using NodeJS 
 
 **Classifying verbal commands using Convolutional Neural Networks andMel-spectrographic sound representations** <br>
 **Chris Hickey**, and Byoung-Tak Zhang <br>
