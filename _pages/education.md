@@ -7,7 +7,7 @@ author_profile: true
 
 <style type="text/css" rel="stylesheet">
 h1, h2, h3, h4, h5, h6 {
-    margin: 0;
+    margin-bottom: 0px;
 }
 </style>
 
