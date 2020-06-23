@@ -5,40 +5,36 @@ permalink: /work/
 author_profile: true
 ---
 
-
+**Graduate Researcher** <br>
+**_Biointelligence Lab, Sep 2018 - ..._**  <br>
+_Reseach Lab @ Seoul National University, Seoul, Korea_ <br>
+* Assisted in research on Visual Turing Test tasks
+* Extensively proofread and edited publications for lab members
+* Worked to publish AI related research (see Publications section) 
 
 
 **Blochain Developer** <br>
 **_Common Computer, Jan 2019 - Mar 2019_**  <br>
-_Startup Blockchain Company, Seoul_ <br>
+_Startup Blockchain Company, Seoul, Korea_ <br>
 * Using blockchain Proof-of-Stake protocols to create a distributed sharded database capable of processing up to 1,000,000 transactions per second 
 * Creating a database that is highly partitioned, always available and eventually consistent (CAP Theorem)
 * Database is developed using NodeJS 
 
-**Classifying verbal commands using Convolutional Neural Networks andMel-spectrographic sound representations** <br>
-**Chris Hickey**, and Byoung-Tak Zhang <br>
-_Proceedings of Korea Computer Congress 2020_ (KCC 2020), Jul. 2020. <br>
-[[PDF](http://chrishickey.github.io/files/CNNVerbalKCC.pdf)]
-[[GitHub](https://github.com/chrishickey/Split_Gibbs)]
+**Team Lead** <br>
+**_Ericsson, Sep 2016 - Sep 2017_**  <br>
+_Multinational Telecom Company, Athlone, Ireland_ <br>
+* Led a team consisting of myself and two other developers in creating a version-controlled, automated continuous integration framework for an Ericsson Big Data Processing API, used internationally throughout the company
+* Our software auto-deployed updated code to a distributed server cluster in order to conduct high level integration, functional and performance tests
+* Allure test reports were automatically generated to accompany every code commit
+* Grafana reports were automatically generated to visually present max data throughput of our big data processing API. This allowed for easy identification of performance dips which were previously going unnoticed following bad commits
+* Developed software to automate environment setup and other DevOps tasks which had previously been done manually
 
-**Split Gibbs Sampling Algorithm for Consistent Motif Discovery** <br>
-**Chris Hickey**, and Byoung-Tak Zhang <br>
-_Proceedings of Korea Computer Congress 2020_ (KCC 2020), Jul. 2020. <br>
-[[PDF](http://chrishickey.github.io/files/GibbsAlgKCC.pdf)]
-[[GitHub](https://github.com/chrishickey/CNNCommandClassifier)]
+**Software Engineer** <br>
+**_Ericsson, Sep 2016 - Sep 2017_**  <br>
+_Multinational Telecom Company, Athlone, Ireland_ <br>
+* Developed an internal “Fake Telecom Network” to use as a test environment to load test Ericsson’s flagship software - Ericsson Network Manager
+* Developed a UI test framework using Selenium for testing the web browser interface to ENM
+* Conducted deep debugging analysis and bug reports when ENM failed to perform under load generated from the Fake Telecom Network 
+* Led a refactoring effort on all our code using SOLID software design principles, resulting in improved performance using only 30% of the code
 
-**Simulating problem difficulty in arithmetic cognition through dynamic connectionist models** <br>
-Sungjae Cho, Jaeseo Lim, **Chris Hickey**, Jung Ae Park, and Byoung-Tak Zhang <br>
-_Proceedings of the 17th International Conference on Cognitive Modelling_ (ICCM 2019), Jul. 2019. pp.29-34. <br>
-[[PDF](https://drive.google.com/open?id=1fcDB0W0zzxnaI88OYD6MyIkoC4UT4sUq)]
-[[arXiv](https://arxiv.org/abs/1905.03617)]
-[[GitHub](https://github.com/sungjae-cho/arithmetic-jordan-net)]
-[[GitHub-human](https://github.com/sungjae-cho/arithmetic-experiment)]
-
-**Problem difficulty in arithmetic cognition: Humans and connectionist models** <br>
-Sungjae Cho, Jaeseo Lim, **Chris Hickey**, and Byoung-Tak Zhang <br>
-_Proceedings of the 41st Annual Meeting of the Cognitive Science Society_ (CogSci 2019), Jul. 2019. pp. 1506-1512. <br>
-[[PDF](https://drive.google.com/file/d/1HuqA3EZ73YUveNcvqbiaicBIX2InFEvE/view)]
-[[PsyArXiv](https://psyarxiv.com/mjtdv/)]
-[[GitHub](https://github.com/sungjae-cho/arithmetic-mlp)]
 
