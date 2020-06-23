@@ -10,11 +10,11 @@ main:
     url: /publications/
 
 
-  - title: "Teaching"
-    url: /teaching/    
+ # - title: "Teaching"
+ #   url: /teaching/    
     
-  - title: "Talks"
-    url: /talks/  
+ # - title: "Talks"
+ #   url: /talks/  
 #  - title: "Portfolio"
 #    url: /portfolio/
         
