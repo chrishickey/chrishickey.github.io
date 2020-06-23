@@ -27,6 +27,7 @@ author_profile: true
 **_University College Dublin, Sep 2009 - Sep 2013_** <br>
 * **GPA**: _3.84/4.2_, _2nd highest in class_
 * **Thesis**: Investigating Correlations between Prenatal Smoking and its Effect on Later Cognitive Outcomes, _supvervisor Dr. Ela Polek_
+
 <a href="http://chrishickey.github.io/files/ucd_ba.pdf">Transcripts</a>
 
 **Leaving Certificate** <br>
