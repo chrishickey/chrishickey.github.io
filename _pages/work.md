@@ -30,7 +30,7 @@ _Multinational Telecom Company, Athlone, Ireland_ <br>
 * Developed software to automate environment setup and other DevOps tasks which had previously been done manually
 
 **Software Engineer** <br>
-**_Ericsson, Sep 2016 - Sep 2017_**  <br>
+**_Ericsson, Sep 2014 - Sep 2016_**  <br>
 _Multinational Telecom Company, Athlone, Ireland_ <br>
 * Developed an internal “Fake Telecom Network” to use as a test environment to load test Ericsson’s flagship software - Ericsson Network Manager
 * Developed a UI test framework using Selenium for testing the web browser interface to ENM
