@@ -7,34 +7,29 @@ author_profile: true
 
 
 **M. Sc. Engineering (Cognitive Science and Artificial Intelligence)** <br>
-**_Seoul National University, Sep 2018 -2020_** [[Transcripts](http://chrishickey.github.io/files/snu_msc.pdf)] <br>
+**_Seoul National University, Sep 2018 -Sep 2020_**  <br>
 * **GPA**: _4.22/4.3_
 * **Thesis**: Investigating Hierarchical Color Learning in Convolutional Neural Networks, _supvervisor Prof. Byoung-Tak Zhang_
+* [Transcripts(http://chrishickey.github.io/files/snu_msc.pdf)]
 
-**Classifying verbal commands using Convolutional Neural Networks andMel-spectrographic sound representations** <br>
-**Chris Hickey**, and Byoung-Tak Zhang <br>
-_Proceedings of Korea Computer Congress 2020_ (KCC 2020), Jul. 2020. <br>
-[[PDF](http://chrishickey.github.io/files/CNNVerbalKCC.pdf)]
-[[GitHub](https://github.com/chrishickey/Split_Gibbs)]
+**Prof. Dip. Data Analytics** <br>
+**_University College Dublin, Sep 2015 -2016_** <br>
+* **GPA**: _4.0/4.2_
+* [Transcripts(http://chrishickey.github.io/files/ucd_dip.pdf)]
 
-**Split Gibbs Sampling Algorithm for Consistent Motif Discovery** <br>
-**Chris Hickey**, and Byoung-Tak Zhang <br>
-_Proceedings of Korea Computer Congress 2020_ (KCC 2020), Jul. 2020. <br>
-[[PDF](http://chrishickey.github.io/files/GibbsAlgKCC.pdf)]
-[[GitHub](https://github.com/chrishickey/CNNCommandClassifier)]
 
-**Simulating problem difficulty in arithmetic cognition through dynamic connectionist models** <br>
-Sungjae Cho, Jaeseo Lim, **Chris Hickey**, Jung Ae Park, and Byoung-Tak Zhang <br>
-_Proceedings of the 17th International Conference on Cognitive Modelling_ (ICCM 2019), Jul. 2019. pp.29-34. <br>
-[[PDF](https://drive.google.com/open?id=1fcDB0W0zzxnaI88OYD6MyIkoC4UT4sUq)]
-[[arXiv](https://arxiv.org/abs/1905.03617)]
-[[GitHub](https://github.com/sungjae-cho/arithmetic-jordan-net)]
-[[GitHub-human](https://github.com/sungjae-cho/arithmetic-experiment)]
+**M. Sc. Applied Software Engineering** <br>
+**_Athlone Institute of Technology, Sep 2013 - Dec 2014_** <br>
+* **Grade**: Fist Class Honours, _Top 10% of class_
+* [Transcripts(http://chrishickey.github.io/files/ait_msc.pdf)]
 
-**Problem difficulty in arithmetic cognition: Humans and connectionist models** <br>
-Sungjae Cho, Jaeseo Lim, **Chris Hickey**, and Byoung-Tak Zhang <br>
-_Proceedings of the 41st Annual Meeting of the Cognitive Science Society_ (CogSci 2019), Jul. 2019. pp. 1506-1512. <br>
-[[PDF](https://drive.google.com/file/d/1HuqA3EZ73YUveNcvqbiaicBIX2InFEvE/view)]
-[[PsyArXiv](https://psyarxiv.com/mjtdv/)]
-[[GitHub](https://github.com/sungjae-cho/arithmetic-mlp)]
+**B. A. Psychology** <br>
+**_University College Dublin, Sep 2009 - Sep 2013_** <br>
+* **GPA**: _3.86/4.2_, _2nd highest in class_
+* **Thesis**: Investigating Correlations between Prenatal Smoking and its Effect on Later Cognitive Outcomes, _supvervisor Dr. Ela Polek_
+* [Transcripts(http://chrishickey.github.io/files/ucd_ba.pdf)]
 
+**Leaving Certificate** <br>
+**_National Exam of Ireland, 2009_** <br>
+* **Points**: _520/600_ 
+* **Subjects**: Maths, English, Irish, Chemistry, Economics, History, French 
