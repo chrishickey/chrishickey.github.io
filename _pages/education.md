@@ -6,12 +6,11 @@ author_profile: true
 ---
 
 
-**Common Computer** <br>
-**_Blockchain Startup Company, Seoul_**  <br>
-_Blochain Development Intern Dec 2018 - Mar 2019_ <br>
-* Using blockchain Proof-of-Stake protocols to create a distributed sharded database capable of processing up to 1,000,000 transactions per second 
-* Creating a database that is highly partitioned, always available and eventually consistent (CAP Theorem)
-* Database is developed using NodeJS 
+**M. Sc. Engineering (Cognitive Science and Artificial Intelligence)** <br>
+**_Seoul National University, Sep 2018 -2020_**  <br>
+* **GPA**: _4.22/4.3_
+* **Thesis**: Investigating Hierarchical Color Learning in Convolutional Neural Networks, _supvervisor Prof. Byoung-Tak Zhang_
+* [[Transcripts](http://chrishickey.github.io/files/snu_msc.pdf)]
 
 **Classifying verbal commands using Convolutional Neural Networks andMel-spectrographic sound representations** <br>
 **Chris Hickey**, and Byoung-Tak Zhang <br>
