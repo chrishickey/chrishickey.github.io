@@ -13,7 +13,7 @@ _Reseach Lab @ Seoul National University, Seoul, Korea_ <br>
 * Worked to publish AI related research (see Publications section) 
 
 
-**Blochain Developer** <br>
+**Blockhain Developer** <br>
 **_Common Computer, Jan 2019 - Mar 2019_**  <br>
 _Startup Blockchain Company, Seoul, Korea_ <br>
 * Using blockchain Proof-of-Stake protocols to create a distributed sharded database capable of processing up to 1,000,000 transactions per second 
