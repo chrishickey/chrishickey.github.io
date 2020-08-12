@@ -12,7 +12,7 @@ _Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recogniti
 [[GitHub](https://github.com/chrishickey/color_hierarchy_experiment)]
 [[YouTube](https://www.youtube.com/watch?v=aS6fWK9QWBI)]
 
-**Classifying verbal commands using Convolutional Neural Networks andMel-spectrographic sound representations** <br>
+**Classifying verbal commands using Convolutional Neural Networks and Mel-spectrographic sound representations** <br>
 **Chris Hickey**, and Byoung-Tak Zhang <br>
 _Proceedings of Korea Computer Congress 2020_ (KCC 2020), Jul. 2020. <br>
 [[PDF](http://chrishickey.github.io/files/CNNVerbalKCC.pdf)]
