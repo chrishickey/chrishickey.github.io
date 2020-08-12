@@ -10,19 +10,23 @@ author_profile: true
 _Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops 2020_ (CVPRW 2020), Jun. 2020. pp.3484-3485. <br>
 [[PDF](http://openaccess.thecvf.com/content_CVPRW_2020/papers/w26/Hickey_Hierarchical_Color_Learning_in_Convolutional_Neural_Networks_CVPRW_2020_paper.pdf)]
 [[GitHub](https://github.com/chrishickey/color_hierarchy_experiment)]
-[[YouTube](https://www.youtube.com/watch?v=aS6fWK9QWBI&t=13s)]
+[[YouTube](https://www.youtube.com/watch?v=aS6fWK9QWBI)]
 
 **Classifying verbal commands using Convolutional Neural Networks andMel-spectrographic sound representations** <br>
 **Chris Hickey**, and Byoung-Tak Zhang <br>
 _Proceedings of Korea Computer Congress 2020_ (KCC 2020), Jul. 2020. <br>
 [[PDF](http://chrishickey.github.io/files/CNNVerbalKCC.pdf)]
 [[GitHub](https://github.com/chrishickey/Split_Gibbs)]
+[[YouTube](https://www.youtube.com/watch?v=70QNbqBSKTM)]
+
 
 **Split Gibbs Sampling Algorithm for Consistent Motif Discovery** <br>
 **Chris Hickey**, and Byoung-Tak Zhang <br>
 _Proceedings of Korea Computer Congress 2020_ (KCC 2020), Jul. 2020. <br>
 [[PDF](http://chrishickey.github.io/files/GibbsAlgKCC.pdf)]
 [[GitHub](https://github.com/chrishickey/CNNCommandClassifier)]
+[[YouTube](https://www.youtube.com/watch?v=WtZ-cNYN-Go)]
+
 
 **Simulating problem difficulty in arithmetic cognition through dynamic connectionist models** <br>
 Sungjae Cho, Jaeseo Lim, **Chris Hickey**, Jung Ae Park, and Byoung-Tak Zhang <br>
