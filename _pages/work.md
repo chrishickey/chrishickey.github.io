@@ -4,9 +4,16 @@ title: "Work"
 permalink: /work/
 author_profile: true
 ---
+**Senior Python Developer** <br>
+**_Blueface: A Comcast Business Company, Sep 2020 - ..._**  <br>
+_UCaaS Company Operating as a Subsidiary of Comcast, Dublin, Ireland_ <br>
+* Backend developer for Blueface's Unified Communications Platform
+* Using Flask and Marshamallow to develop ReSTful APIs
+* Using Celery, RabbitMQ and Redis to manage asynchronoues task processing 
+
 
 **Graduate Researcher** <br>
-**_Biointelligence Lab, Sep 2018 - ..._**  <br>
+**_Biointelligence Lab, Sep 2018 - Aug 2020_**  <br>
 _Reseach Lab @ Seoul National University, Seoul, Korea_ <br>
 * Assisted in research on Visual Turing Test tasks
 * Extensively proofread and edited publications for lab members
