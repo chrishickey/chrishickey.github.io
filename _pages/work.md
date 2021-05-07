@@ -23,7 +23,7 @@ _Reseach Lab @ Seoul National University, Seoul, Korea_ <br>
 **Blockchain Developer** <br>
 **_Common Computer, Jan 2019 - Dec 2019_**  <br>
 _Startup Blockchain Company, Seoul, Korea_ <br>
-* Using blockchain Proof-of-Stake protocols to create a distributed sharded database capable of processing up to 1,000,000 transactions per second 
+* Using blockchain Proof-of-Stake protocols to create a distributed sharded database aimed at maximasing transactions per second 
 * Creating a database that is highly partitioned, always available and eventually consistent (CAP Theorem)
 * Database is developed using NodeJS 
 
