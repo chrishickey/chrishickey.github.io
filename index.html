@@ -1,0 +1,293 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Chris Hickey</title>
+  <meta name="description" content="Chris Hickey, AI and backend Python engineer at Brand Engagement Network in Seoul. Builds LLM conversation and retrieval systems.">
+  <meta property="og:title" content="Chris Hickey">
+  <meta property="og:description" content="AI and backend Python engineer in Seoul. LLM conversation and retrieval systems.">
+  <meta property="og:image" content="https://chrishickey.github.io/images/profile.jpeg">
+  <meta property="og:url" content="https://chrishickey.github.io/">
+  <link rel="icon" href="images/favicon.svg" type="image/svg+xml">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<nav class="nav">
+  <div class="wrap">
+    <a class="brand" href="#top">Chris Hickey</a>
+    <ul>
+      <li><a href="#about">About</a></li>
+      <li><a href="#ben">At BEN</a></li>
+      <li><a href="#experience">Experience</a></li>
+      <li><a href="#publications">Publications</a></li>
+      <li><a href="#education">Education</a></li>
+      <li><a href="#skills">Skills</a></li>
+    </ul>
+  </div>
+</nav>
+
+<main class="wrap" id="top">
+
+  <header class="hero">
+    <img src="images/profile.jpeg" alt="Chris Hickey" width="112" height="112">
+    <div>
+      <h1>Chris Hickey</h1>
+      <p class="role"><strong>AI / Backend Python Engineer</strong> · Seoul, South Korea</p>
+      <div class="links">
+        <a class="primary" href="files/ChrisCV.pdf">
+          <svg viewBox="0 0 24 24"><path d="M6 2h9l5 5v15H6V2zm8 1.5V8h4.5L14 3.5zM8 12h8v1.5H8V12zm0 3h8v1.5H8V15zm0 3h5v1.5H8V18z"/></svg>
+          CV (PDF)
+        </a>
+        <a href="mailto:chris1.hickey1@gmail.com">
+          <svg viewBox="0 0 24 24"><path d="M3 5h18v14H3V5zm1.5 1.5v.7l7.5 5 7.5-5v-.7h-15zm0 2.5v8.5h15V9l-7.5 5L4.5 9z"/></svg>
+          Email
+        </a>
+        <a href="https://github.com/chrishickey" rel="me">
+          <svg viewBox="0 0 24 24"><path d="M12 2a10 10 0 0 0-3.16 19.49c.5.09.68-.22.68-.48v-1.7c-2.78.6-3.37-1.34-3.37-1.34-.45-1.15-1.11-1.46-1.11-1.46-.91-.62.07-.61.07-.61 1 .07 1.53 1.03 1.53 1.03.9 1.53 2.35 1.09 2.92.83.09-.65.35-1.09.63-1.34-2.22-.25-4.56-1.11-4.56-4.94 0-1.09.39-1.98 1.03-2.68-.1-.25-.45-1.27.1-2.64 0 0 .84-.27 2.75 1.02A9.6 9.6 0 0 1 12 6.84c.85 0 1.71.11 2.51.34 1.91-1.29 2.75-1.02 2.75-1.02.55 1.37.2 2.39.1 2.64.64.7 1.03 1.59 1.03 2.68 0 3.84-2.34 4.68-4.57 4.93.36.31.68.92.68 1.85v2.74c0 .27.18.58.69.48A10 10 0 0 0 12 2z"/></svg>
+          GitHub
+        </a>
+        <a href="https://www.linkedin.com/in/chris-hickey-54b05a89/" rel="me">
+          <svg viewBox="0 0 24 24"><path d="M4 3.5A1.5 1.5 0 1 1 4 6.5a1.5 1.5 0 0 1 0-3zM2.8 8h2.4v12H2.8V8zm4.7 0h2.3v1.6h.03c.32-.6 1.1-1.24 2.27-1.24 2.43 0 2.88 1.6 2.88 3.68V20h-2.4v-5.3c0-1.27-.02-2.9-1.77-2.9-1.77 0-2.04 1.38-2.04 2.8V20H7.5V8z"/></svg>
+          LinkedIn
+        </a>
+      </div>
+    </div>
+  </header>
+
+  <section id="about">
+    <h2>About</h2>
+    <p class="lead">I build the backend systems behind LLM products: conversation services, retrieval, streaming APIs and the infrastructure that keeps them observable in production.</p>
+    <p>Ten years in production software across telecoms test automation at Ericsson, unified communications at Comcast, applied computer vision, and most recently LLM conversation and retrieval systems serving live customers. I hold an M.Sc. in Cognitive Science and AI from Seoul National University and have published at CVPR Workshops and CogSci.</p>
+    <p>I like owning a service end to end: architecture, asynchronous Python, data modelling, CI/CD, Kubernetes deployment and observability. I care about typed, tested code and about being the person who reviews it.</p>
+  </section>
+
+  <section id="ben">
+    <h2>What I've been building at BEN</h2>
+    <p>Since July 2024 I've been an AI Engineer at Brand Engagement Network (BEN) in Seoul, where we build LLM-powered conversational assistants with speech for customers. Most of my work sits in the AI backend: the services that turn a user's utterance into a spoken, grounded, context-aware reply, and the platform that runs them.</p>
+
+    <div class="cards">
+      <article class="card">
+        <h3>Shared LLM dialog library</h3>
+        <p>Architected the asynchronous Python library that all of the company's dialog managers build on: text generation, embeddings, emotion classification and conversation state.</p>
+        <p>Decoupled speech synthesis from dialog logic across six customer assistants, so multi-sentence responses are synthesised in parallel. That cut response latency and simplified deployment.</p>
+        <div class="stack"><span>Python</span><span>asyncio</span><span>LLM APIs</span><span>TTS</span></div>
+      </article>
+
+      <article class="card">
+        <h3>Streaming chat API</h3>
+        <p>Designed and shipped a streaming chat API over WebSocket and Server-Sent Events with typed event frames, automatic language switching, per-voice text-to-speech routing and multilingual fallbacks.</p>
+        <p>Brought the service to a typed, linted codebase with an 80% coverage gate in CI.</p>
+        <div class="stack"><span>FastAPI</span><span>WebSockets</span><span>SSE</span><span>Pydantic</span></div>
+      </article>
+
+      <article class="card">
+        <h3>Retrieval (RAG) service</h3>
+        <p>Built the retrieval service on PostgreSQL and pgvector: per-tenant databases, pluggable dense and sparse embeddings, background re-embedding and parallel query decomposition.</p>
+        <p>Co-designed metadata-aware reranking and table and image retrieval from scientific papers, with RAGAS-based evaluation to measure changes.</p>
+        <div class="stack"><span>PostgreSQL</span><span>pgvector</span><span>Embeddings</span><span>RAGAS</span></div>
+      </article>
+
+      <article class="card">
+        <h3>Data-service migration</h3>
+        <p>Led a coordinated breaking change that replaced direct database access in five microservices with a single typed data-service client.</p>
+        <p>That made schema ownership explicit and unblocked the move to a multi-tenant deployment.</p>
+        <div class="stack"><span>Microservices</span><span>API design</span><span>Multi-tenancy</span></div>
+      </article>
+
+      <article class="card">
+        <h3>Observability and operations</h3>
+        <p>Added end-to-end trace IDs, Prometheus metrics and structured logging with Loki and Grafana across the AI stack.</p>
+        <p>Own the Kubernetes deployments and releases for the services I work on, including an event-driven Celery task service for conversation, summary, retrieval and analytics persistence.</p>
+        <div class="stack"><span>Kubernetes</span><span>Prometheus</span><span>Loki</span><span>Grafana</span><span>Celery</span></div>
+      </article>
+
+      <article class="card">
+        <h3>Long-term user memory</h3>
+        <p>Co-designed a memory system that builds long-lived user profiles from conversations through per-turn LLM extraction over Redis-backed sessions, so assistants remember what matters across sessions.</p>
+        <p>Built Streamlit chat, speech and retrieval testers that engineers and domain experts use to try changes before they ship.</p>
+        <div class="stack"><span>Redis</span><span>LLM extraction</span><span>Streamlit</span></div>
+      </article>
+    </div>
+
+    <div class="callout">
+      <p>Roughly 700 merged pull requests across 37 services in two years, and primary reviewer for the retrieval and user-memory services.</p>
+    </div>
+  </section>
+
+  <section id="experience">
+    <h2>Earlier experience</h2>
+    <ul class="timeline">
+      <li>
+        <div class="when">Oct 2021 – Jun 2024</div>
+        <div>
+          <h3>Team Lead</h3>
+          <div class="org">Surromind · Seoul · promoted from Senior AI Research Engineer, Aug 2022</div>
+          <ul>
+            <li>Led government-funded computer vision projects: keypoint detection for classifying tennis strokes, and vision transformers for extracting image attributes such as shape, colour, depth and density.</li>
+            <li>Built content-based music recommendation with CNNs and contrastive learning, plus classifiers for instruments, mood and genre.</li>
+            <li>Backend and ML engineer on AI Studio, a no-code AI platform. Wrapped open-source vision models (Mask R-CNN, YOLO) behind Django, Redis and Celery services.</li>
+          </ul>
+        </div>
+      </li>
+      <li>
+        <div class="when">Sep 2020 – Oct 2021</div>
+        <div>
+          <h3>Senior Python Developer</h3>
+          <div class="org">Blueface, a Comcast Business company · Dublin</div>
+          <p>Backend developer on Comcast's Unified Communications platform. RESTful APIs with Flask and Marshmallow, asynchronous task processing with Celery, RabbitMQ and Redis.</p>
+        </div>
+      </li>
+      <li>
+        <div class="when">Jan 2019 – Sep 2019</div>
+        <div>
+          <h3>Blockchain Developer (part-time)</h3>
+          <div class="org">Common Computer · Seoul</div>
+          <p>Built a sharded, distributed database in Node.js on a Proof-of-Stake protocol: highly partitioned, always available and eventually consistent, tuned for transactions per second.</p>
+        </div>
+      </li>
+      <li>
+        <div class="when">Sep 2018 – Sep 2020</div>
+        <div>
+          <h3>Graduate Researcher</h3>
+          <div class="org">Biointelligence Lab, Seoul National University</div>
+          <p>Published on hierarchical colour learning in CNNs, spoken command classification and motif discovery. Edited lab members' publications on the Visual Turing Test.</p>
+        </div>
+      </li>
+      <li>
+        <div class="when">Sep 2014 – Sep 2017</div>
+        <div>
+          <h3>Software Engineer, then Team Lead</h3>
+          <div class="org">Ericsson · Athlone, Ireland</div>
+          <ul>
+            <li>Led a three-person team building a version-controlled, automated CI framework for Ericsson's Big Data Processing API, used across the company internationally.</li>
+            <li>Built a mock telecom network for load-testing Ericsson Network Manager and a Selenium framework for its web interface.</li>
+            <li>Led a SOLID-principles refactor that improved performance while reducing the codebase to 30% of its original size.</li>
+          </ul>
+        </div>
+      </li>
+    </ul>
+  </section>
+
+  <section id="publications">
+    <h2>Publications</h2>
+    <ul class="pubs">
+      <li>
+        <p class="title">Hierarchical Color Learning in Convolutional Neural Networks</p>
+        <p class="authors"><strong>Chris Hickey</strong>, Byoung-Tak Zhang</p>
+        <p class="venue">IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW 2020), pp. 3484–3485</p>
+        <div class="out">
+          <a href="http://openaccess.thecvf.com/content_CVPRW_2020/papers/w26/Hickey_Hierarchical_Color_Learning_in_Convolutional_Neural_Networks_CVPRW_2020_paper.pdf">PDF</a>
+          <a href="https://github.com/chrishickey/color_hierarchy_experiment">Code</a>
+          <a href="https://www.youtube.com/watch?v=aS6fWK9QWBI">Talk</a>
+        </div>
+      </li>
+      <li>
+        <p class="title">Classifying verbal commands using Convolutional Neural Networks and Mel-spectrographic sound representations</p>
+        <p class="authors"><strong>Chris Hickey</strong>, Byoung-Tak Zhang</p>
+        <p class="venue">Korea Computer Congress (KCC 2020)</p>
+        <div class="out">
+          <a href="files/CNNVerbalKCC.pdf">PDF</a>
+          <a href="https://github.com/chrishickey/CNNCommandClassifier">Code</a>
+          <a href="https://www.youtube.com/watch?v=70QNbqBSKTM">Talk</a>
+        </div>
+      </li>
+      <li>
+        <p class="title">Split Gibbs Sampling Algorithm for Consistent Motif Discovery</p>
+        <p class="authors"><strong>Chris Hickey</strong>, Byoung-Tak Zhang</p>
+        <p class="venue">Korea Computer Congress (KCC 2020)</p>
+        <div class="out">
+          <a href="files/GibbsAlgKCC.pdf">PDF</a>
+          <a href="https://github.com/chrishickey/Split_Gibbs">Code</a>
+          <a href="https://www.youtube.com/watch?v=WtZ-cNYN-Go">Talk</a>
+        </div>
+      </li>
+      <li>
+        <p class="title">Simulating problem difficulty in arithmetic cognition through dynamic connectionist models</p>
+        <p class="authors">Sungjae Cho, Jaeseo Lim, <strong>Chris Hickey</strong>, Jung Ae Park, Byoung-Tak Zhang</p>
+        <p class="venue">17th International Conference on Cognitive Modelling (ICCM 2019), pp. 29–34</p>
+        <div class="out">
+          <a href="https://arxiv.org/abs/1905.03617">arXiv</a>
+          <a href="https://github.com/sungjae-cho/arithmetic-jordan-net">Code</a>
+        </div>
+      </li>
+      <li>
+        <p class="title">Problem difficulty in arithmetic cognition: Humans and connectionist models</p>
+        <p class="authors">Sungjae Cho, Jaeseo Lim, <strong>Chris Hickey</strong>, Byoung-Tak Zhang</p>
+        <p class="venue">41st Annual Meeting of the Cognitive Science Society (CogSci 2019), pp. 1506–1512</p>
+        <div class="out">
+          <a href="https://psyarxiv.com/mjtdv/">PsyArXiv</a>
+          <a href="https://github.com/sungjae-cho/arithmetic-mlp">Code</a>
+        </div>
+      </li>
+    </ul>
+  </section>
+
+  <section id="education">
+    <h2>Education</h2>
+    <ul class="timeline">
+      <li>
+        <div class="when">2018 – 2020</div>
+        <div>
+          <h3>M.Sc. Engineering, Cognitive Science and Artificial Intelligence</h3>
+          <div class="org">Seoul National University · GPA 4.22/4.3 · Korean Government Scholarship</div>
+          <p>Thesis: Investigating Hierarchical Color Learning in Convolutional Neural Networks, supervised by Prof. Byoung-Tak Zhang. <a href="files/snu_msc.pdf">Transcript</a></p>
+        </div>
+      </li>
+      <li>
+        <div class="when">2015 – 2016</div>
+        <div>
+          <h3>Professional Diploma in Data Analytics</h3>
+          <div class="org">University College Dublin · GPA 4.0/4.2</div>
+          <p><a href="files/ucd_dip.pdf">Transcript</a></p>
+        </div>
+      </li>
+      <li>
+        <div class="when">2013 – 2014</div>
+        <div>
+          <h3>M.Sc. Applied Software Engineering</h3>
+          <div class="org">Athlone Institute of Technology · First Class Honours, top 10% · Ericsson Scholarship</div>
+          <p><a href="files/ait_msc.pdf">Transcript</a></p>
+        </div>
+      </li>
+      <li>
+        <div class="when">2009 – 2013</div>
+        <div>
+          <h3>B.A. Psychology</h3>
+          <div class="org">University College Dublin · GPA 3.84/4.2, 2nd in a cohort of 70 · exchange year at the University of Hong Kong</div>
+          <p><a href="files/ucd_ba.pdf">Transcript</a></p>
+        </div>
+      </li>
+    </ul>
+  </section>
+
+  <section id="skills">
+    <h2>Skills</h2>
+    <dl class="skills">
+      <dt>Languages</dt>
+      <dd class="tags"><span>Python (main)</span><span>TypeScript / Node.js</span><span>English (native)</span><span>Korean (intermediate)</span></dd>
+      <dt>Backend</dt>
+      <dd class="tags"><span>FastAPI</span><span>asyncio</span><span>Django</span><span>Flask</span><span>Celery</span><span>Redis</span><span>RabbitMQ</span><span>WebSockets / SSE</span><span>REST API design</span></dd>
+      <dt>AI &amp; LLM</dt>
+      <dd class="tags"><span>RAG pipelines</span><span>Embeddings &amp; reranking</span><span>pgvector</span><span>LLM evaluation (RAGAS)</span><span>PyTorch</span><span>Computer vision</span></dd>
+      <dt>Data &amp; infra</dt>
+      <dd class="tags"><span>PostgreSQL</span><span>MongoDB</span><span>Docker</span><span>Kubernetes</span><span>Bitbucket Pipelines</span><span>Prometheus</span><span>Loki</span><span>Grafana</span></dd>
+      <dt>Practices</dt>
+      <dd class="tags"><span>Test automation</span><span>Code review</span><span>CI/CD</span><span>Observability</span><span>Technical writing</span></dd>
+    </dl>
+  </section>
+
+</main>
+
+<footer>
+  <div class="wrap">
+    Chris Hickey · Seoul · <a href="mailto:chris1.hickey1@gmail.com">chris1.hickey1@gmail.com</a> · <a href="files/ChrisCV.pdf">CV</a>
+  </div>
+</footer>
+
+</body>
+</html>
